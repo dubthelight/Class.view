@@ -6,7 +6,7 @@ def main():
   miles_to_kilometers(miles_needed)
 
  except: 
-  print("An error occurred, please try again by entering only a whole number") 
+  print("An exception occurred, try again by entering only a whole number") 
   print() 
   
 def miles_to_kilometers(miles): 
